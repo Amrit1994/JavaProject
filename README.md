@@ -1,0 +1,2 @@
+# JavaProject
+Collection example
